@@ -20,7 +20,7 @@ const Counter = () => {
       <h3>-- {counter} --</h3>
       <button onClick={subb}>SUB ----</button>
       <button onClick={add}>ADD ++++ </button>
-      <button onClick={reset}>RESET</button>
+      <button onClick={reset}>RESET+++++++</button>
     </div>
   );
 };
